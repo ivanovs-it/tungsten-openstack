@@ -21,6 +21,7 @@ pip install ansible==2.7.18
 ```
 * Clone ansible-deployer reposotory
 ```bash
+mkdir -p /opt/tf/tf-ansible-deployer
 git clone http://github.com/tungstenfabric/tf-ansible-deployer /opt/tf/tf-ansible-deployer
 cd /opt/tf/tf-ansible-deployer
 ```
